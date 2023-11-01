@@ -44,3 +44,14 @@ In the Cyclistic Bike-Share Analysis Case Study, our primary challenge is to dev
 
 Our overarching objective is to create a data-driven marketing strategy that effectively encourages casual riders to transition into annual members. By achieving this, we aim to bolster Cyclistic's revenue and profitability.
 
+
+# Process
+
+1. Appending files in MS Access
+2. Checking data types
+3. Checking if there are duplicated rows
+4. Deleting the rows with null values (with sql)
+5. Exporting the concatenated file
+6. Uploading the file into Power BI
+7. Splitting the started_at and ended_at columns into started_date/started_time and ended_date/ended_time
+8. Adding a ride duration
