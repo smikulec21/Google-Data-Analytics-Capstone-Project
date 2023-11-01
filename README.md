@@ -29,8 +29,10 @@ Cyclistic's finance analysts have highlighted the profitability of annual member
 
 We will address three key questions to guide our marketing program:
 
-## The problem that we are solving
-# Problem Statement
+
+
+# The problem that we are solving
+## Problem Statement
 
 In the Cyclistic Bike-Share Analysis Case Study, our primary challenge is to devise strategies for maximizing annual memberships at Cyclistic, a prominent bike-share company operating in Chicago. Lily Moreno, the Director of Marketing, underlines the significance of increasing the annual membership base for the company's future success.
 
