@@ -29,6 +29,28 @@ Cyclistic's finance analysts have highlighted the profitability of annual member
 
 We will address three key questions to guide our marketing program:
 
+## The problem that we are solving
+# Problem Statement
+
+In the Cyclistic Bike-Share Analysis Case Study, our primary challenge is to devise strategies for maximizing annual memberships at Cyclistic, a prominent bike-share company operating in Chicago. Lily Moreno, the Director of Marketing, underlines the significance of increasing the annual membership base for the company's future success.
+
+## Objective
+
+Our overarching objective is to create a data-driven marketing strategy that effectively encourages casual riders to transition into annual members. By achieving this, we aim to bolster Cyclistic's revenue and profitability.
+
+## Key Focus Areas
+
+To tackle this problem, we will primarily focus on three key areas:
+
+1. **Analyzing Usage Patterns**: Understanding the differences in how annual members and casual riders use Cyclistic bikes is crucial. This analysis will guide us in tailoring our marketing strategies effectively.
+
+2. **Motivations for Membership**: We will investigate why casual riders would opt for Cyclistic's annual memberships. Identifying their motivations will be pivotal in driving the conversion.
+
+3. **Leveraging Digital Media**: We'll explore the role of digital media in influencing casual riders to make the transition to annual memberships. Maximizing the impact of digital channels is essential for our strategy.
+
+Through this case study, we aim to provide actionable insights and recommendations that empower Cyclistic to achieve its goal of increasing annual memberships and securing its future prosperity.
+
+
 1. **How do annual members and casual riders use Cyclistic bikes differently?**
 2. **Why would casual riders buy Cyclistic annual memberships?**
 3. **How can Cyclistic use digital media to influence casual riders to become members?**
