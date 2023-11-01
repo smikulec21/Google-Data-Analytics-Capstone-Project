@@ -54,4 +54,71 @@ Our overarching objective is to create a data-driven marketing strategy that eff
 5. Exporting the concatenated file
 6. Uploading the file into Power BI
 7. Splitting the started_at and ended_at columns into started_date/started_time and ended_date/ended_time
-8. Adding a ride duration
+8. Adding a ride duration column
+9. Adding a support column to count all the visits to the start stations
+  ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/052ec0bc-7607-4215-a1e7-bef893876474)
+10. Adding a support column to split the rideable types into normal and electric bicycles
+    ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/2472c81d-51ff-4299-9519-38bd1e4e977b)
+
+11. Making visualizations on the dashboard
+
+# Dashboard
+1. Making a pie chart to show the difference between the casual drivers and members.
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/918e8f32-5485-4c39-a533-3998218627cc)
+2. Making a slicer to enable selecting the starting station
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/654f234d-722e-4633-a4c7-f0660a5f5025)
+3. Making a treemap to vizualize the size and number of the people at starting stations
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/dda207f7-aba7-4e3c-babb-2d493105c8b4)
+4. Making a card that showcases casual riders and members in numbers
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/13e32049-73a6-4eba-a3f6-bb34accac152)
+5. Making a pie chart to showcase the difference in electric and normal bicycles
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/8a503e64-5489-4a2d-b81c-668e2af2be7d)
+6. Making a stacked bar chart to showcase the duration of the rides based on starting time
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/73a37474-8b4c-4061-b400-8bacc39532ff)
+7. Making a stacked column chart to showcase how start station visits differ by months
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/6ccc3e8c-394b-418e-891a-2c2b713f76c2)
+
+## Final Dashboard look and use
+![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/99341335-5fa2-4198-a081-76fee37deb6e)
+**Real-time Data**
+- Power BI provides real-time data monitoring. Bike companies can track bike availability and rider activity instantly. For example, they can filter the dashboard by time of day to understand rider demand fluctuations.
+
+**Customization**
+- Customize Power BI dashboards to align with branding. Create user-friendly filter controls tailored to the audience's preferences, enhancing the user experience.
+
+**Interactivity**
+- Power BI offers interactive filtering. For instance, bike companies can use filters to show data by rider category, answering questions like, "Which stations are popular with annual members?" or "Preferred stations for casual riders?"
+
+# Answering the questions
+
+1. **Usage Patterns of Annual Members and Casual Riders**:
+   - Annual members and casual riders often use Cyclistic bikes differently. Annual members are more likely to be regular commuters who use the service frequently for their daily transportation needs. They typically have a routine and prefer using the bikes for both short and long trips. On the other hand, casual riders are occasional users, often tourists or individuals who use the service sporadically for leisure or specific short-term needs. The duration of casual rider trips may vary, with some opting for short rides, while others explore the city with longer rides.
+
+2. **Motivations for Casual Riders to Purchase Annual Memberships**:
+   - There are several reasons why casual riders might decide to purchase annual memberships with Cyclistic:
+     - **Cost Savings**: Annual memberships are cost-effective for frequent riders compared to paying per ride. Casual riders who find themselves using the service regularly may see an annual membership as a way to save money in the long run.
+     - **Convenience**: An annual membership provides the convenience of quick and easy access to bikes without the need to purchase individual ride passes each time, which can be appealing to riders who use the service frequently.
+     - **Health and Environment**: Cyclistic may promote the health and environmental benefits of cycling, encouraging casual riders to opt for annual memberships to support a more sustainable and healthy lifestyle.
+     - **Exclusive Features**: Offering exclusive features such as reserved bikes or priority access for annual members can entice casual riders to upgrade their memberships.
+     - **Promotions and Discounts**: Cyclistic can run promotional campaigns, discounts, or special offers to incentivize casual riders to commit to annual memberships.
+
+3. **Using Digital Media to Attract Casual Riders as Members**:
+   - Cyclistic can utilize digital media to influence casual riders to become annual members through various strategies:
+     - **Targeted Advertising**: Run targeted online ad campaigns to reach casual riders with tailored messages, showcasing the benefits of annual memberships, including cost savings, convenience, and special features.
+     - **Engaging Content**: Create engaging content such as blog posts, videos, or social media updates highlighting the advantages of membership, sharing success stories from current members, and providing tips for getting the most out of their membership.
+     - **Email Marketing**: Implement email marketing campaigns to communicate directly with casual riders, offering promotions, discounts, and relevant information about annual memberships.
+     - **User-Friendly Website**: Optimize the Cyclistic website with a user-friendly interface that makes it easy for casual riders to explore membership options and sign up seamlessly.
+     - **Referral Programs**: Encourage existing annual members to refer casual riders to join, offering incentives or discounts for successful referrals.
+     - **Social Proof**: Showcase positive reviews, ratings, and testimonials from satisfied annual members on digital platforms to build trust and credibility.
+     - **Customer Support**: Provide excellent customer support through digital channels, addressing inquiries and concerns promptly to assist casual riders in making informed decisions.
+
+These strategies aim to leverage digital media to convey the value and benefits of annual memberships to casual riders, ultimately encouraging them to convert and become loyal Cyclistic members.
+
+
+
+
+
+
+   
+
+
