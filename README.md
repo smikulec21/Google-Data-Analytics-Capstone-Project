@@ -64,18 +64,25 @@ Our overarching objective is to create a data-driven marketing strategy that eff
 
 # Dashboard
 1. Making a pie chart to show the difference between the casual drivers and members.
+   
 ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/918e8f32-5485-4c39-a533-3998218627cc)
 2. Making a slicer to enable selecting the starting station
+
 ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/654f234d-722e-4633-a4c7-f0660a5f5025)
 3. Making a treemap to vizualize the size and number of the people at starting stations
+
 ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/dda207f7-aba7-4e3c-babb-2d493105c8b4)
 4. Making a card that showcases casual riders and members in numbers
+
 ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/13e32049-73a6-4eba-a3f6-bb34accac152)
 5. Making a pie chart to showcase the difference in electric and normal bicycles
+
 ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/8a503e64-5489-4a2d-b81c-668e2af2be7d)
 6. Making a stacked bar chart to showcase the duration of the rides based on starting time
+
 ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/73a37474-8b4c-4061-b400-8bacc39532ff)
 7. Making a stacked column chart to showcase how start station visits differ by months
+
 ![image](https://github.com/smikulec21/Google-Data-Analytics-Capstone-Project/assets/126814016/6ccc3e8c-394b-418e-891a-2c2b713f76c2)
 
 ## Final Dashboard look and use
